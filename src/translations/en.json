@@ -1,0 +1,58 @@
+{
+    "homeheader":{
+        "speciality":"Medical Speciality",
+        "searchdoctor": "Search Doctors by Speciality",
+        "health-facility": "Health Facilities",
+        "select-room": "Select Hospital",
+        "doctor": "Doctor",
+        "select-doctor":"Select Doctor"  ,
+        "package": "Examination Package",
+        "health-check":"Get Health Checkup",
+        "support":"Support",
+        "welcome":"Welcome "
+    },
+
+    "banner":{
+        "title1":"MEDICAL BACKGROUND",
+        "title2":"COMPREHENSIVE HEALTH CARE",
+        "search":"Search somethings",
+        "opt1":"Specialized Examination",
+        "opt2":"Remote Examination",
+        "opt3":"General Examination",
+        "opt4":"Medical Test",
+        "opt5":"Mental Health",
+        "opt6":"Dental Examination",
+        "opt7":"Surgery Packs",
+        "opt8":"Medical Products"
+
+    },
+
+    "menu": {
+        "system": {
+            "header": "System",
+            "system-administrator": {
+                "header": "System Administrator",
+                "user-manage": "User manage",
+                "user-redux": "User redux manage",
+                "register-package-group-or-account": "Register service package for group/account"
+            },
+            "system-parameter": {
+                "header": "System-parameter"
+            }
+        },
+        "admin":{
+            "manage-user": "User",
+            "manage-doctor": "List of Doctors",
+            "manage-admin": "List of Admins",
+            "crud-user": "Add, Edit, Delete User",
+            "clinic": "Clinic",
+            "manage-clinic": "Manage Clinic",
+            "specialty":"Specialty",
+            "manage-specialty": "Manage Specialty",
+            "handbook":"Handbook",
+            "manage-handbook": "Manage Handbook"
+        }
+    }
+
+  
+}
